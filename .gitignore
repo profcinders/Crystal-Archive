@@ -473,3 +473,9 @@ appsettings-schema.json
 
 # Media files
 /wwwroot/media/
+
+##
+## Project-Specific
+##
+
+CrystalArchives.Web/wwwroot/styles/
